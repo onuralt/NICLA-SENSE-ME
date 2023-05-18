@@ -1,0 +1,36 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+
+
+## [rev 1] - 2023-02-02
+
+### Added
+
+- References of the introduction part.
+- References of the theory part.
+- Units of standard deviations.
+- Method of offset calculation.
+- "Therefore, the measurement fits with the real values."
+
+### Changed
+
+- Reference [4] link changed, now it refers to BMM 150 datasheet.
+
+### Removed
+
+- Types and applications of magnetic sensors (Introduction reduced).
+- Screen capture from the NOAA website.
+
+### Fixed
+
+- "In this module, we’re going to utilize the BMM150 [4] sensor on the Arduino Nicla Sense
+  ME to measure the magnetic field of the Earth." -> "In this module, the BMM150 [4]
+  sensor on the Arduino Nicla Sense ME board will be utilized to measure the magnetic
+  field of the Earth."
+- Figure and Table numbers.
+- Tables 1, 2 & 3 combined.
+- Axis labels for histograms
+- Summary Extended
